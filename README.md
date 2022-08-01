@@ -8,3 +8,4 @@
 #### People may use this and fork this to create better 24/7 bot that has activity counter goodluck! :)
 #### People also can report you so it may can make your Discord account at risk
 #### FYI: I dont use this anymore
+#### This may not work with newer discord! i coded this on my free time so if there is a error or bugs it will not be fixed.
